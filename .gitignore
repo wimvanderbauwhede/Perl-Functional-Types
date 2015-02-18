@@ -1,0 +1,7 @@
+/Functional-Types-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
