@@ -4,7 +4,7 @@
       "Wim Vanderbauwhede <Wim.Vanderbauwhede@mail.be>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.031, Dist::Milla version v1.0.9, CPAN::Meta::Converter version 2.143240",
+   "generated_by" : "Dist::Zilla version 5.039, Dist::Milla version v1.0.15, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -26,12 +26,12 @@
    "prereqs" : {
       "configure" : {
          "requires" : {
-            "Module::Build::Tiny" : "0.039"
+            "Module::Build::Tiny" : "0.034"
          }
       },
       "develop" : {
          "requires" : {
-            "Dist::Milla" : "v1.0.9"
+            "Dist::Milla" : "v1.0.15"
          }
       },
       "runtime" : {
@@ -57,9 +57,6 @@
          "web" : "https://github.com/wimvanderbauwhede/Perl-Functional-Types"
       }
    },
-   "version" : "v0.0.1",
-   "x_contributors" : [
-      "Wim Vanderbauwhede <wim.vanderbauwhede@mail.be>"
-   ]
+   "version" : "v0.0.1"
 }
 
